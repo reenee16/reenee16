@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <strong> Singapore | SUTD | SWE at Hopetechnik </strong>
+  <strong> Singapore | SUTD | AI/ML Research at Wilmar Internationl </strong>
 </p>
 
 <div align="center">
