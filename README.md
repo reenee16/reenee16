@@ -75,7 +75,6 @@ Works anywhere (cloud-agnostic)
 <div align="center">
 
 ### **Lettuce-Help**
-**
 
 <div align="center">
   
