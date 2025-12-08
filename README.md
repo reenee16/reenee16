@@ -1,12 +1,6 @@
 # <div align="center">✨ **Hey, I'm Harini!** ✨</div>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=900&lines=Turning+coffee+into+code+since+2021+%E2%98%95;Building+AI+that+actually+helps+people+%F0%9F%A4%96;Teaching+machines+to+see+%F0%9F%91%81;Making+tech+more+human%2C+one+project+at+a+time+%F0%9F%8C%9F)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </div>
 
@@ -57,7 +51,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30"> **Projects**
+## **Projects**
 
 <table>
 <tr>
@@ -66,8 +60,6 @@
 
 ### **Virtual Language Buddy**
 *My Capstone Baby*
-
-![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat) ![Excitement](https://img.shields.io/badge/Excitement_Level-Over_9000-red?style=flat)
 
 **The Dream:**  
 Creating an AI that teaches languages better than Duolingo!
@@ -83,27 +75,29 @@ Works anywhere (cloud-agnostic)
 <div align="center">
 
 ### **Lettuce-Help**
-*SUTD-Singtel Merit Award Winner*
+**
 
-![Award](https://img.shields.io/badge/🏆_Merit_Award-Winner-gold?style=flat) ![Impact](https://img.shields.io/badge/Impact-Real_World-green?style=flat)
+<div align="center">
+  
+![Award](https://img.shields.io/badge/🏆_SUTD_Singtel_Merit_Award-Winner-gold?style=flat)
+
+</div>
 
 **The Problem:**  
 Food waste is real, and food banks needed help.
 
 **My Solution:**
-Smart app for food donations
-IoT boxes that know when they're full
-Google Maps integration
+- Smart app for food donations
+- IoT boxes that know when they're full
+- Google Maps integrationn
 
 </div>
 </td>
 <td width="33%">
 <div align="center">
 
-### 🔬 **AI Doctor's Assistant**
+### **AI Doctor's Assistant**
 *Skin Cancer Detection*
-
-![Purpose](https://img.shields.io/badge/Purpose-Saving_Lives-red?style=flat) ![Tech](https://img.shields.io/badge/Tech-Deep_Learning-blue?style=flat)
 
 **The Mission:**  
 Early cancer detection through AI.
